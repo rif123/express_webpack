@@ -1,0 +1,19 @@
+{
+  "name": "express-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rif123/express_webpack.git"
+  },
+  "author": "rifky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rif123/express_webpack/issues"
+  },
+  "homepage": "https://github.com/rif123/express_webpack#readme"
+}
